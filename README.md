@@ -12,8 +12,7 @@ A student from China
 - ⚡ Python/C++  
 - 🌱 I’m currently learning Knowledge Graph  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyu313&layout=compact)](https://github.com/chenyu313/github-readme-stats)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyu313&layout=compact)](https://github.com/chenyu313/github-readme-stats)
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=chenyu313)]()
 
 
