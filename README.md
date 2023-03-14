@@ -6,7 +6,7 @@ A student from China
 [![Python](https://img.shields.io/static/v1?label=Program&message=Python&color=blue)](https://github.com/chenyu313)
 [![CSDN](https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red)](https://blog.csdn.net/qq_45190143)
 
-![:chenyu313](https://count.getloli.com/get/@:chenyu313?theme=rule34)
+![:chenyu313](https://count.getloli.com/get/@:chenyu313)
 
 
 - ⚡ Python/C++  
