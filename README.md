@@ -15,8 +15,5 @@ A student from China
 
 ![Metrics](https://metrics.lecoq.io/chenyu313?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=chenyu313)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyu313&layout=compact)](https://github.com/chenyu313/github-readme-stats)
-
 
 
