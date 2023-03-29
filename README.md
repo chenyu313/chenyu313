@@ -12,7 +12,7 @@ A student from China
 - ⚡ Python/C++  
 - 🌱 I’m currently learning Knowledge Graph  
 
-![](https://raw.githubusercontent.com/chenyu313/chenyu313/main/assets/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/chenyu313/chenyu313/assets/github-contribution-grid-snake.svg" /></div>
 
 
 <div align="center"> <img src="https://github.com/chenyu313/Python_crawler/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E7%88%AC%E8%99%AB%E5%9F%BA%E7%A1%80/code.gif" /> </div>
