@@ -12,9 +12,15 @@ A student from China
 - ⚡ Python/C++  
 - 🌱 I’m currently learning Knowledge Graph  
 
+<div>
+<p>
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chenyu313&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenyu313&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</div>
 
 
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenyu313" /> </div>
+<div> <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenyu313" /> </div>
 
-<div align="center"> <img src="https://github.com/chenyu313/Python_crawler/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E7%88%AC%E8%99%AB%E5%9F%BA%E7%A1%80/code.gif" /> </div>
+<div> <img src="https://github.com/chenyu313/Python_crawler/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E7%88%AC%E8%99%AB%E5%9F%BA%E7%A1%80/code.gif" /> </div>
