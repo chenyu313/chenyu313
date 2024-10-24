@@ -7,7 +7,7 @@
 
 
 
-- ⚡ Python/C++  
+- ⚡ Python/C++/Java
 - 🌱 I‘m also researching on knowledge graph representation and reasoning
 
 <div>
